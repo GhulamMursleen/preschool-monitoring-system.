@@ -1,0 +1,2 @@
+# preschool-monitoring-system.
+I need to identify the student via video, and check the emotional state of their day to a report.  Also I need to track the teacher's face who is there. Then If there is some abuse or misbehaviour I need to alert to the parents.  Requirements in point.  1. I need to identify the student and generate a report based on emotional status though out the day.  2. Training process for the model is required. 
